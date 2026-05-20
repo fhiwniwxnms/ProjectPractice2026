@@ -16,7 +16,7 @@
 
     --mint: #97c1b7;
     --mint-light: #d6f0ed;
-    --mint-dark: #477b73;
+    --mint-dark: #4f887e;
 
     background-color: var(--pinky-blur);
     color: var(--rose-ink);
@@ -257,14 +257,14 @@ table {
 }
 th {
     background-color: var(--mint-dark);
-    color: var(--rose-ink);
+    color: var(--ivory-bloom);
     padding: 12px 12px;
     text-align: left;
     font-weight: 700;
 }
 td {
-    background-color: var(--mint-light);
-    color: var(--blush-wine);
+    background-color: var(--mint);
+    color: var(--rose-ink);
     padding: 20px 12px;
     border-bottom: 1px solid var(--powder-rose);
 }
